@@ -30,4 +30,4 @@ O jogo foi feito para apresentarmos na feira do empreendedorismo de 2019 do Col�
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto está sob a licença [MIT](./LICENSE).
